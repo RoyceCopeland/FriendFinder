@@ -1,0 +1,2 @@
+// Includes a single default profile, so that anyone demoing from the GitHub repository will have a result.
+module.exports = [{ "name": "Royce", "photo": "https://qph.ec.quoracdn.net/main-qimg-d2f8e4b5a4343d8b5f191706ee3cc1fc-c", "answers": ["2", "5", "5", "4", "5", "1", "1", "2", "2", "2"] }];
