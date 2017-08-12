@@ -3,13 +3,13 @@ $(document).ready(function() {
     var questions = [
         'I like to exercise.',
         'College football is better than pro football.',
-        'I like cats better than dogs.',
-        'I like dogs better than cats.',
+        'Cats are better than dogs.',
+        'Dogs are better than cats.',
         'I am an early riser.',
         'I am a night owl.',
-        'I consider myself religious.',
+        'Religion is very important to me.',
         'I would rather go out to eat than cook a meal at home.',
-        'I enjoy reading books.',
+        'The book is always better than the movie.',
         'I believe Lee Harvey Oswald acted alone.'
     ];
 
