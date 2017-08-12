@@ -12,7 +12,7 @@ $(document).ready(function() {
         'The book is always better than the movie.',
         'I believe Lee Harvey Oswald acted alone.'
     ];
-    console.log(questions);
+    //console.log(questions);
 
 
     // Choices for personality questions.
