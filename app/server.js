@@ -21,3 +21,4 @@ require('./app/routing/htmlRoutes')(app);
 
 // Start listening.
 app.listen(PORT, '0.0.0.0');
+console.log("I'm listening")
