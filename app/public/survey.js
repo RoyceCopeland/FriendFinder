@@ -1,16 +1,16 @@
 $(document).ready(function() {
     // Questions listed in an array so they can be procedurally generated.
     var questions = [
-        'I am the life of the party.',
-        'I am extraordinarily cynical.',
-        'I have a poor grip on reality.',
-        'I crave attention.',
-        'I would rather sleep in on my days off.',
-        'I have a good relationship with my family.',
-        'I believe that everything happens for a reason.',
-        'I enjoy cooking for myself and others.',
-        'I am a pet person.',
-        'I believe in a higher power.'
+        'I like to exercise.',
+        'College football is better than pro football.',
+        'I like cats better than dogs.',
+        'I like dogs better than cats.',
+        'I am an early riser.',
+        'I am a night owl.',
+        'I consider myself religious.',
+        'I would rather go out to eat than cook a meal at home.',
+        'I enjoy reading books.',
+        'I believe Lee Harvey Oswald acted alone.'
     ];
 
     // Choices for personality questions.
