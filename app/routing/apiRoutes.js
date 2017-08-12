@@ -4,12 +4,12 @@ var friendData = require('../data/friends.js');
 module.exports = function(app) {
 
     // GET route for /api/friends returns friendData.
-    app.get('/data/friends', function(req, res) {
+    app.get('../data/friends.js', function(req, res) {
         res.json(friendData);
     });
 
     // POST route for /api/friends takes in the new data and responds with the most compatible match.
-    app.post('/data/friends', function(req, res) {
+    app.post('../data/friends.js', function(req, res) {
         // Our user is the data sent in the request.
         var thisUser = req.body;
         var differences = [];
